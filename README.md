@@ -214,21 +214,7 @@ Across the four days, I gained practical exposure to:
 
 ---
 
-# 📸 Project Screenshots
 
-The following screenshots document the progression of the project:
-
-**Day 1 — Environment Setup**
-Tools installed and configured.
-
-**Day 2 — Docker & AWS**
-Application containerised and deployed to AWS.
-
-**Day 3 — Terraform**
-AWS infrastructure created and managed through code.
-
-**Day 4 — CI/CD**
-GitHub connected to AWS and automated deployment successfully running.
 
 ---
 
